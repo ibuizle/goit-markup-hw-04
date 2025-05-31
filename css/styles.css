@@ -250,17 +250,20 @@ ul {
     box-shadow: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+
 .hero {
-    background-color: #2e2f42;
-    padding: 188px 0;
-    background: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-        url(../images/people-office.jpg);
+    max-width: 1440px;
+    background-image:
+    linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
+    url(../images/people-office.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    max-width: 1440px;
-
+    padding: 188px 0;
+    text-align: center;
+    color: #ffffff;     
 }
+
 
 
 
