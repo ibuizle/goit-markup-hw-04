@@ -51,7 +51,7 @@ ul {
 }
 
 .container {
-    max-width: 1158px;
+    width: 1158px;
     margin: 0 auto;
     padding-left: 15px;
     padding-right: 15px;
@@ -586,9 +586,4 @@ ul {
 
 .footer-social-icon{
     fill: #f4f4fd;
-}
-
-.container{
-    display: flex;
-    align-items: baseline;
 }
