@@ -587,3 +587,8 @@ ul {
 .footer-social-icon{
     fill: #f4f4fd;
 }
+
+.container .footer-container{
+    display: flex;
+    align-items: baseline;
+}
