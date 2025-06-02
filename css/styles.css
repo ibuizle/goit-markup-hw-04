@@ -571,6 +571,7 @@ ul {
 }
 
 .footer-logo-box{
+    margin-right: 120px;
     min-width: 264px;
 }
 
@@ -579,7 +580,6 @@ ul {
     display: flex;
     align-items: baseline;
     flex-wrap: wrap;
-    gap: 120px;
 }
 
 .footer-social-icon{
