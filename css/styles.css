@@ -121,7 +121,6 @@ ul {
 .menu {
     display: flex;
     gap: 40px;
-    padding: 24px 0;
 }
 
 .menu-link {
@@ -202,8 +201,7 @@ ul {
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     ;
     text-decoration: none;
-    padding: 0px;
-}
+    padding: 24px 0;}
 
 .navi.current {
     color: #404bbf;
@@ -224,7 +222,6 @@ ul {
 .navi:hover,
 .navi:focus {
     color: #404bbf;
-    background-color: #31d0aa;
 }
 
 .address {
